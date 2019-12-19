@@ -1,0 +1,15 @@
+{
+  "name": "reactddeemmoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build && cd app && npm run start",
+    "build": "cd websrc && npm run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
